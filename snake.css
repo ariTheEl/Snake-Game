@@ -1,0 +1,9 @@
+body{
+    text-align: center;
+}
+.score{
+    margin: 1rem;
+    font-size: 3rem;
+    font-family: cursive;
+    color: teal;
+}
